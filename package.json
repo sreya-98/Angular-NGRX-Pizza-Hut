@@ -1,0 +1,43 @@
+{
+  "name": "first-app",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "",
+    "@angular/common": "",
+    "@angular/compiler": "",
+    "@angular/core": "",
+    "@angular/forms": "",
+    "@angular/platform-browser": "",
+    "@angular/platform-browser-dynamic": "",
+    "@angular/router": "",
+    "@fortawesome/fontawesome-free": "",
+    "@ngrx/store": "",
+    "@ngrx/store-devtools": "",
+    "bootstrap": "",
+    "rxjs": "",
+    "tslib": "",
+    "zone.js": ""
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "",
+    "@angular/cli": "",
+    "@angular/compiler-cli": "",
+    "@types/jasmine": "",
+    "@types/node": "",
+    "jasmine-core": "",
+    "karma": "",
+    "karma-chrome-launcher": "",
+    "karma-coverage": "",
+    "karma-jasmine": "",
+    "karma-jasmine-html-reporter": "",
+    "typescript": ""
+  }
+}

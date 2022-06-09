@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;1,300&display=swap');
+
+body{
+  font-family: ubuntu, sans-serif;
+  margin: 0;
+}
+
+.btn {
+  margin: 5px;
+}
+
